@@ -4,12 +4,12 @@ window.BLOG_POSTS = window.BLOG_POSTS || [];
 
 window.BLOG_POSTS.push({
 	id: "blog-01",
-	title: "AI backend network in the cloud",
+	title: "How Perlite Transforms Agriculture & Horticulture",
 	date: "2026-01-01",
 	summary:
-		"AI isn’t only about models and data—it’s about the network that makes real-time processing possible. Here’s how Azure Networking is evolving to stay fast, reliable, and secure for AI workloads.",
-	coverImage: "assets/blog/2026-01-01-ai-backend-network.jpg",
-	coverAlt: "AI backend network in the cloud diagram",
+		"Perlite plays a major role in modern growing systems by improving soil aeration, drainage, and moisture balance. It helps roots develop faster, prevents overwatering, and supports healthier plant growth in greenhouses, gardens, and farms. As growers move toward sustainable methods, perlite stands out as a natural, reusable solution.",
+	coverImage: "assets/blog/blog1.png",
+	coverAlt: "How Perlite Transforms Agriculture & Horticulture",
 	articleUrl:
-		"https://azure.microsoft.com/en-us/blog/azure-networking-updates-on-security-reliability-and-high-availability/"
+		"https://www.youtube.com/watch?v=wUKZgS4TnZ0"
 });

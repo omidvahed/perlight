@@ -83,6 +83,7 @@ img{ max-width:100%; height:auto; display:block; }
   justify-content: center;
   justify-self: center;
   flex-wrap: nowrap;
+  white-space: nowrap;
 }
 .nav a{
   opacity:.9;
@@ -109,6 +110,7 @@ img{ max-width:100%; height:auto; display:block; }
   border: 1px solid transparent;
   transition: transform .05s ease, opacity .2s ease;
   gap: 8px;
+  white-space: nowrap;
 }
 .btn:active{ transform: translateY(1px); }
 .btn--primary{ background: var(--primary); color:white; }
@@ -303,6 +305,7 @@ h2{
 
 .section-title--singleline{
   white-space: nowrap;
+  font-size: clamp(24px, 2.6vw, 36px);
 }
 
 .training-title--singleline{
@@ -314,7 +317,8 @@ h2{
   color: var(--muted);
   font-size: 16px;
   line-height: 1.7;
-  max-width: 74ch;
+  max-width: 100%;
+  white-space: nowrap;
 }
 .lead--center{
   margin-left: auto;

@@ -4,12 +4,12 @@ window.BLOG_POSTS = window.BLOG_POSTS || [];
 
 window.BLOG_POSTS.push({
 	id: "blog-02",
-	title: "AI backend network in the cloud",
+	title: "Construction & Insulation",
 	date: "2025-02-01",
 	summary:
-		"Managing Azure networking across multiple subscriptions, regions, and tenants can get messy. But with Azure Virtual Network Manager (AVNM), you can centralize, automate, and secure your network effortlessly!",
-	coverImage: "assets/blog/maxresdefault.webp",
-	coverAlt: "Azure Virtual Network Manager",
+		"In construction, perlite is valued for being lightweight, fire‑resistant, and thermally efficient. When added to plasters, concrete, and insulation materials, it reduces weight while improving energy performance. Builders use it to create safer, more sustainable structures with lower environmental impact.",
+	coverImage: "assets/blog/blog2.png",
+	coverAlt: "Construction & Insulation",
 	articleUrl:
-		"https://youtu.be/K8yp0mt86kg"
+		"https://www.youtube.com/watch?v=lGNzbhU44TM"
 });
